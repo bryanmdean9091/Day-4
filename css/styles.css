@@ -1,0 +1,20 @@
+#a1 {
+    background-image: url("./IMAGES/JOHNLENNON.png");
+    background-repeat: repeat;
+    display: inline-block;
+}
+#a2 {
+    background-image: url("./IMAGES/ringo.png");
+    display: inline-block;
+}
+#a3 {
+    background-image: url("./IMAGES/paul\ Mc.png");
+    display: inline-block;
+}
+#a4 {
+    background-image: url("./IMAGES/GeorgeHarr.png");
+    display: inline-block;
+}
+#a5 {
+    background-color: red;
+}
